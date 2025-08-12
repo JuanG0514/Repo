@@ -190,6 +190,9 @@ section{
         height: 80px;
         width:  80px;
     }
+    header p{
+        font-size: 10px;
+    }
     
 }
 
